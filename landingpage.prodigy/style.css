@@ -1,0 +1,30 @@
+body {
+
+    background-color: #5d5c5e;
+}
+
+.navbar {
+    list-style: none;
+}
+
+.nav-link {
+    color: rgb(10, 10, 10);
+
+    /* color: red; */
+}
+
+.row3 {
+    background-color: #f7f1f1;
+    color: black;
+}
+
+.img1 {
+    margin: 5%;
+    
+    height: 100%;
+}
+.img1{
+    border-radius: 50px 0px 50px 0px;
+}
+
+
